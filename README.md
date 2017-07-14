@@ -2,6 +2,8 @@
 
 #### Example
 ```
+C:\>pyEncoder.py
+
 [+] Enter python code: print ("hello world")
 [+] Cleaning first
 [+] Cleaning done
