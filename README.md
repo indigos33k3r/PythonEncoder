@@ -1,5 +1,13 @@
 # PythonEncoder
-* Works with python 2 and python 3 code. Make sure it's a one-liner when you paste it into the pyEncoder. For lazy mf's go to (http://jagt.github.io/python-single-line-convert/) *
+
+#### Tested on:
+* Python2
+* Python3
+* Windows 10
+* Kali Linux
+
+#### Reqs:
+* One-liners
 
 #### Example
 ```
