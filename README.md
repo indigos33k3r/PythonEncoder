@@ -1,13 +1,12 @@
 # PythonEncoder
 
 #### Tested on:
-* Python2
-* Python3
-* Windows 10
-* Kali Linux
+* Python2 / Python3
+* Windows 10 / Kali Linux / Ubuntu
 
 #### Reqs:
-* One-liners
+* Your code needs to be a one-liner
+* Brainz
 
 #### Example
 ```
