@@ -1,13 +1,5 @@
 # PythonEncoder
 
-#### Tested on:
-* Python2 / Python3
-* Windows 10 / Kali Linux / Ubuntu
-
-#### Reqs:
-* Your code needs to be a one-liner
-* Brainz
-
 #### Example
 ```
 [+] Enter python code: print ("hello world")
