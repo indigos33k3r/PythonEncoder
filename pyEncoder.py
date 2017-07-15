@@ -10,7 +10,7 @@ def cleanterminal():
 	
 def banner():
 	'''
-	Print banner and info how to use the script
+	Print banner
 	'''
 	print "             _____                    _ "
 	print "            |  ___|                  | |"         
